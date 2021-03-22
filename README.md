@@ -6,3 +6,5 @@ the problem they need to solve, how many problems they've completed, their score
 answers. At any time during the problem set, the student can start over by clicking "Start Over."
 
 Built with HTML, CSS, and JavaScript
+
+Check it out here:  https://cait-mede.github.io/Math-Quiz/
