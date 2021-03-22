@@ -94,7 +94,8 @@ function populateOperatorArray() {
     }
 
     if (operators.length === 0) {
-        return alert("Please check something!");
+        alert("Please check something!");
+        location.reload();
     }
 }
 
